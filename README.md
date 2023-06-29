@@ -1,6 +1,6 @@
 # Battery's Snake
 #### Video Demo:  [YouTube](https://youtu.be/FKSh0FEsCZk)
-#### Live Project: https://batterys-snake.battery9.repl.co
+#### Live Project: [https://battery9.github.io/Battery-s-Snake](https://battery9.github.io/Battery-s-Snake/)
 <h2> Description:</h2>
 My own version of classic Snake Game.
 <h3>Features:</h3>
